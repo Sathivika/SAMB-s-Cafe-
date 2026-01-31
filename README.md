@@ -18,13 +18,13 @@ The project focuses on improving order flow, kitchen efficiency, and customer en
 ### Screenshots
 
 <p align="center">
-  <img src="assets/ss.png" width="180"/>
-  <img src="assets/ss(1).png" width="180"/>
-   <img src="assets/ss(2).png" width="180"/>
-    <img src="assets/ss(3).png" width="180"/>
-     <img src="assets/ss(4).png" width="180"/>
-      <img src="assets/ss(5).png" width="180"/>
-       <img src="assets/ss(6).png" width="180"/>
-        <img src="assets/ss(7).png" width="180"/>
-         <img src="assets/ss(8).png" width="180"/>
+  <img src="asset/ss.png" width="180"/>
+  <img src="asset/ss(1).png" width="180"/>
+   <img src="asset/ss(2).png" width="180"/>
+    <img src="asset/ss(3).png" width="180"/>
+     <img src="asset/ss(4).png" width="180"/>
+      <img src="asset/ss(5).png" width="180"/>
+       <img src="asset/ss(6).png" width="180"/>
+        <img src="asset/ss(7).png" width="180"/>
+         <img src="asset/ss(8).png" width="180"/>
 </p>
