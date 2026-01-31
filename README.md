@@ -14,3 +14,6 @@ The project focuses on improving order flow, kitchen efficiency, and customer en
 ### Project Demo
 
 🎥 Watch here: https://youtu.be/GTnq3ejCFDI
+
+### Screenshots
+
